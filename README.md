@@ -16,7 +16,6 @@ Evaluated on the **FashionIQ** benchmark, the model outperforms standard baselin
 
 ## Repository Structure
 ```text
-├── group5_report.pdf             # Comprehensive project report detailing methodology
 ├── group5_training.ipynb         # Main training notebook and result visualization
 └── cdcir/                        # Demo tool folder
     ├── app.py                    # Gradio demo application
